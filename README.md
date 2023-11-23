@@ -19,3 +19,11 @@
     <img src="https://img.shields.io/badge/Discord-Community-orange" alt="Community" />
   </a>
 </h4>
+
+
+## Contribution Guidance
+
+1) Clone the repo
+2) Create a folder
+3) Share the prompt in the prompt.txt file
+4) Share the visuals as images

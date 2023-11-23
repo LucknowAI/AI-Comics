@@ -15,9 +15,6 @@
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
   </a>
-  <a href="https://discord.gg/m88xfYMbK6">
-    <img src="https://img.shields.io/badge/Discord-Community-orange" alt="Community" />
-  </a>
 </h4>
 
 

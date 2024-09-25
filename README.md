@@ -24,3 +24,12 @@
 2) Create a folder
 3) Share the prompt in the prompt.txt file
 4) Share the visuals as images
+
+
+## Generated Example
+
+### Batman and Naruto
+
+<h3 align="center">
+  <img src="https://github.com/LucknowAI/AI-Comics/blob/main/Batman_and_naruto/batman_naruto.png" height="300">
+</h3>

@@ -28,10 +28,12 @@
 
 ## Contribution Guidance
 
+
 1) Clone the repo
-2) Create a folder
-3) Share the prompt in the prompt.txt file
-4) Share the visuals as images
+2) Generate a creative comic using https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory
+3) Create a folder
+4) Share the prompt in the prompt.txt file
+5) Share the visuals as images
 
 
 

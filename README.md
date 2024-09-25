@@ -22,7 +22,7 @@
 ### Batman and Naruto
 
 <h3 align="center">
-  <img src="https://github.com/LucknowAI/AI-Comics/blob/main/Batman_and_naruto/batman_naruto.png" height="600">
+  <img src="https://github.com/LucknowAI/AI-Comics/blob/main/Batman_and_naruto/batman_naruto.png" height="400">
 </h3>
 
 
